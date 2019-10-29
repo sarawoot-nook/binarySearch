@@ -1,5 +1,5 @@
 class Home {
-    public static void main (String [] zzz) {
+    public static void main (String [] args) {
         int code [] = {1, 2, 3, 9, 11, 13, 17, 25, 57, 90, 110};
         int num = 17;
         String answer = "No";
